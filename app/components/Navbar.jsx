@@ -5,7 +5,7 @@ import Logo from "./dojo-logo.png";
 export default function Navbar() {
   return (
     <nav>
-      {/* <h1>Kaku</h1> */}
+      <h1>Kaku</h1>
       <Image
         src={Logo}
         alt="Kaku Logo"
